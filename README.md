@@ -13,3 +13,6 @@ Analysis of customer demographics and purchasing behavior. Customer segmentation
 ## Shipping Operations: 
 
 Tracking shipment statuses and delivery times. Monitoring shipping costs and their impact on profit margins. Identifying bottlenecks and delays in the shipping pro.
+
+-----------------------------------------------------------------------------------------
+![revenue](https://github.com/user-attachments/assets/930dbbbb-09bc-45c7-8545-0731336020ab)
